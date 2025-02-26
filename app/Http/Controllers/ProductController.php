@@ -30,7 +30,7 @@ class ProductController extends Controller
 {
     /**
      * @OA\Get(
-     *     path="/product/get",
+     *     path="/api/product/get",
      *     summary="Get product detail by SKU",
      *     tags={"Product"},
      *     @OA\Parameter(

@@ -6,13 +6,13 @@
         "version": "1.0.0"
     },
     "paths": {
-        "/product/get": {
+        "/api/product/get": {
             "get": {
                 "tags": [
                     "Product"
                 ],
                 "summary": "Get product detail by SKU",
-                "operationId": "439b49176e5ab85878819f516326b90d",
+                "operationId": "cabfc6284f0cc64523807b1686f91468",
                 "parameters": [
                     {
                         "name": "access_token",
