@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 /**
  * @OA\Info(
- *     title="Product API",
+ *     title="API for ProductDetials (Smoothgraph)",
  *     version="1.0.0",
- *     description="API for retrieving product details"
+ *     description="ทดสอบเรียก API ผ่าน Swagger",
  * )
  */
 

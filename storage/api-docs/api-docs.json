@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "Product API",
-        "description": "API for retrieving product details",
+        "title": "API for ProductDetials (Smoothgraph)",
+        "description": "ทดสอบเรียก API ผ่าน Swagger",
         "version": "1.0.0"
     },
     "paths": {
