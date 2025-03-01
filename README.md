@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## ค่าที่เอาไว้สำหรับทดสอบ Swagger Api
+
+- Token : [token1 , token2 , token3]
+- ProductSKU : [SKU123 , SKU456]
+
 ## 1.ข้อกำหนดเบื้องต้น:
 
 - PHP: เวอร์ชันที่รองรับ Laravel (ตรวจสอบจาก composer.json)
